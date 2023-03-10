@@ -1,4 +1,4 @@
-NAMES = ["John", "Paul", "George", "Ringo"]
+NAMES = ["John", "Paul", "George", "Ringo", "Jeff"]
 AGES = [20, 21, 22, 23]
 
 JOHN = NAMES[0]
@@ -16,3 +16,4 @@ print(max(AGES))
 print(JOHN_PAUL)
 print(GEORGE_RINGO)
 print(REVERSE)
+print(EVERY_OTHER)
